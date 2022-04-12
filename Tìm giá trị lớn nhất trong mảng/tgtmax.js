@@ -1,4 +1,4 @@
-let number = [1,5,11,3,2,9,50,10];
+let number = [1,5,11,3,2,9,50,25];
 let max = number[0];
 let second;
 for (let i = 0;i<number.length;i++){
